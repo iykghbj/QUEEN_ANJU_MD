@@ -24,5 +24,3 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-MD=SEcEzSAY#yfnKrcmACy8NFA20YaG713zHbv-HZL5oi3BwpbjVQ4I",
 };
 
-
-kavi
