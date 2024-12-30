@@ -22,4 +22,4 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-MD=HA1ghDCI#oj-8hibk6jqK6CqA0NLunKapLg4exXXsm2YgNaFMb5M",
-};
+}; 
